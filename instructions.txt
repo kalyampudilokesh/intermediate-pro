@@ -25,3 +25,4 @@ Employee Management Application Instructions
 
 6. Enjoy using the Employee Management Application!
 
+The Employee Management Application is a simple Java-based application designed to manage employee records. It provides options to add, view, update, delete, and list employees through a menu-driven interface. Employee data is stored temporarily in memory, so all records are lost when the application is closed. The application is operated by running the Main class and following the on-screen prompts.
